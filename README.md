@@ -14,7 +14,7 @@
 -----------------
 
 ### Generate reports with the Extent Report
-* right click on the file: ./testng.xml
+* right click on the file and run: ./testng.xml
 * browse the file in the browser - ./ExtentListenerReportDemo.html
 -----------------
 ### Task List
