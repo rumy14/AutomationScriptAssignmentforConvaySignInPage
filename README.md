@@ -1,8 +1,5 @@
-## Selenium Java framework with maven testNG
+## clear instructions in the README file on how to execute the tests and generate reports
 
-
-Refer [step by step tutorial](https://www.youtube.com/playlist?list=PLPO0LFyCaSo1lEiEFxT97x-CSn-J1omzZ )
- for detailed explanation.
  
 
 ### Highlights on this framework 
